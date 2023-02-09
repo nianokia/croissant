@@ -1,0 +1,40 @@
+body {
+  background: papayawhip;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+p {
+  text-align: center;
+  line-height: 1.5;
+  font-size: 18px;
+  padding: 20px;
+}
+
+a {
+  color: indianred;
+}
+
+a:visited {
+  color: brown;
+}
+
+img {
+  display: block;
+  max-width: 576px;
+  margin: 20px auto;
+}
+
+.container {
+  max-width: 768px;
+}
+
+.navigation-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
