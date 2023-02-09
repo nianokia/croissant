@@ -1,5 +1,5 @@
 body {
-  background: papayawhip;
+  background: antiquewhite;
 }
 
 h1 {
@@ -16,11 +16,11 @@ p {
 }
 
 a {
-  color: indianred;
+  color: brown;
 }
 
 a:visited {
-  color: brown;
+  color: indianred;
 }
 
 img {
@@ -35,6 +35,6 @@ img {
 
 .navigation-links {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-evenly;
 }
